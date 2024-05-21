@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesingPatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7624cc2246078ebfc61e9a9dfdd58f2060b987fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70dc7ea944bb68c122e8a7d9ef66a4dd5c3a67bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesingPatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesingPatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

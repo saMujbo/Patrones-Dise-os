@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\observer\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\observer\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\observer\\obsevercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\observer\\obsevercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\bridge\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\bridge\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,41 +58,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Notificacion.cs",
-              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
-              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
-              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
-              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "DocumentIndex": 3,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Proxy\\Proxy.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Proxy\\Proxy.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Proxy\\Proxy.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Proxy\\Proxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T03:29:13.064Z",
+              "WhenOpened": "2024-05-21T22:19:05.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Bridge.cs",
-              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
-              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
-              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
-              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCQAAAAwAAAA",
+              "Title": "Obsevercs.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Observer\\Obsevercs.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Observer\\Obsevercs.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Observer\\Obsevercs.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Observer\\Obsevercs.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T03:08:44.76Z",
+              "WhenOpened": "2024-05-21T22:17:09.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBridge.cs",
-              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
-              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
-              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
-              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "DocumentIndex": 1,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Observer\\Interfaces.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Observer\\Interfaces.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Observer\\Interfaces.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Observer\\Interfaces.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T03:07:12.8Z",
+              "WhenOpened": "2024-05-21T22:13:26.386Z",
               "EditorCaption": ""
             },
             {
@@ -91,10 +103,46 @@
               "RelativeDocumentMoniker": "DesingPatterns\\Program.cs",
               "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\Program.cs",
               "RelativeToolTip": "DesingPatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T23:38:57.159Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:29:13.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:08:44.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBridge.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:07:12.8Z"
             }
           ]
         }

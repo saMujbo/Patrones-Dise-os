@@ -1,0 +1,15 @@
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.AssemblyInfo.cs
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.sourcelink.json
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\bin\Debug\net7.0\DesingPatterns.exe
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\bin\Debug\net7.0\DesingPatterns.deps.json
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\bin\Debug\net7.0\DesingPatterns.runtimeconfig.json
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\bin\Debug\net7.0\DesingPatterns.dll
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\bin\Debug\net7.0\DesingPatterns.pdb
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.dll
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\refint\DesingPatterns.dll
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.pdb
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\DesingPatterns.genruntimeconfig.cache
+C:\Documentos\Programación II\Investigacion_II\Patrones-Dise-os\DesingPatterns\obj\Debug\net7.0\ref\DesingPatterns.dll

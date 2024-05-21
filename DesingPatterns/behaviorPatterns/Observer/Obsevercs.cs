@@ -1,4 +1,4 @@
-﻿using DesingPatterns.StructuralPatterns.Observer;
+﻿using DesingPatterns.behaviorPatterns.Observer;
 using System;
 using System.Collections.Generic;
 

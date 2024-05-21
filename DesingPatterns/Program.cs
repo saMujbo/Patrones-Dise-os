@@ -1,4 +1,5 @@
-﻿using DesingPatterns.StructuralPatterns.Bridge;
+﻿using DesingPatterns.behaviorPatterns.Memento;
+using DesingPatterns.StructuralPatterns.Bridge;
 using DesingPatterns.StructuralPatterns.Proxy;
 
 Console.WriteLine("\t\t PATRONES ESTRUCTURALES\n");
@@ -40,3 +41,26 @@ weatherData.RegisterObserver(currentDisplay);
 weatherData.SetMeasurements(28.3f, 65.0f, 1013.1f);
 weatherData.SetMeasurements(22.1f, 70.0f, 1012.5f);
 //final del OBSERVER
+
+
+//uso del Memento
+Console.WriteLine("\n\n#2: Uso del memento\n");
+Document document = new Document();
+DocumentHistory history = new DocumentHistory();
+
+document.SetContent("Version 1");
+history.Save(document);
+
+document.SetContent("Version 2");
+history.Save(document);
+
+document.SetContent("Version 3");
+
+Console.WriteLine("Current Content: " + document.GetContent()); // Muestra "Version 3"
+
+history.Undo(document);
+Console.WriteLine("After Undo: " + document.GetContent()); // Muestra "Version 2"
+
+history.Undo(document);
+Console.WriteLine("After Second Undo: " + document.GetContent()); // Muestra "Version 1"
+// final del Memento

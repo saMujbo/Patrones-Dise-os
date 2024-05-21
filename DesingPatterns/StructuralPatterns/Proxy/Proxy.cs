@@ -4,13 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesingPatterns.StructuralPatterns
+namespace DesingPatterns.StructuralPatterns.Proxy
 {
-    public interface IBoxSafe
-    {
-        void OpenSafe();
-    }
-
     // El objeto real que el proxy representa
     public class MrLink : IBoxSafe
     {
@@ -52,23 +47,3 @@ namespace DesingPatterns.StructuralPatterns
         }
     }
 }
-
-
-
-// La interfaz común para Mr. Link (RealSubject) y Mr. Proxy
-
-
-// Uso del Proxy
-/*class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("Client: Trying to access the safe with Mr. Link directly:");
-        MrLink mrLink = new MrLink();
-        mrLink.OpenSafe();
-
-        Console.WriteLine("\nClient: Trying to access the safe with Mr. Proxy:");
-        MrProxy mrProxy = new MrProxy();
-        mrProxy.OpenSafe();
-    }
-}*/

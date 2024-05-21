@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\programacion II\\DesingPatterns\\",
+  "WorkspaceRootPath": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\desingpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\bridge\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\bridge\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\bridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\bridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|c:\\programacion ii\\desingpatterns\\patrones-dise-os\\desingpatterns\\structuralpatterns\\bridge\\ibridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E672FCA-0BA2-46E1-911E-C6C8BDCEDBA0}|DesingPatterns\\DesingPatterns.csproj|solutionrelative:desingpatterns\\structuralpatterns\\bridge\\ibridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +46,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\Notificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:29:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\Bridge.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:08:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBridge.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "RelativeDocumentMoniker": "DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "RelativeToolTip": "DesingPatterns\\StructuralPatterns\\Bridge\\IBridge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:07:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\programacion II\\DesingPatterns\\DesingPatterns\\Program.cs",
+              "DocumentMoniker": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\Program.cs",
               "RelativeDocumentMoniker": "DesingPatterns\\Program.cs",
-              "ToolTip": "C:\\programacion II\\DesingPatterns\\DesingPatterns\\Program.cs",
+              "ToolTip": "C:\\programacion II\\Desingpatterns\\Patrones-Dise-os\\DesingPatterns\\Program.cs",
               "RelativeToolTip": "DesingPatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T23:38:57.159Z",
               "EditorCaption": ""

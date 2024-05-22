@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesingPatterns.behaviorPatterns.Memento
 {
-    public class Document
+    public class Document  
     {
         private string content;
 

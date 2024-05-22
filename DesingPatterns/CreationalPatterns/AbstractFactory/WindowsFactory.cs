@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace AbstractFactory
 {
-    public class WindowsFactory:OperatingSystemFactory
+    public class WindowsFactory:OperatingSystemFactory // implementa el metodo de la clase abstracta 
     {
         public override IOperatingSystem CreateOperatingSystem()
         {

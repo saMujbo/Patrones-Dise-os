@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prototype
 {
-    public interface IConfiguration
+    public interface IConfiguration // se crea una interface
     {
         IConfiguration Clone();
     }

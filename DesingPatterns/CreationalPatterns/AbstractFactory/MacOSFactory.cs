@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace AbstractFactory
 {
-    public class MacOSFactory : OperatingSystemFactory
-    {
-        public override IOperatingSystem CreateOperatingSystem()
+    public class MacOSFactory : OperatingSystemFactory // implementa el metodo de la clase abstracta 
+    {                                                
+        public override IOperatingSystem CreateOperatingSystem() 
         {
-            return new MacOS();
+            return new MacOS(); // retorna un nuevo sistema operativo 
         }
     }
 }

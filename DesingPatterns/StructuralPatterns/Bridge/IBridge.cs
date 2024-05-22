@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DesingPatterns.StructuralPatterns.Bridge
+﻿namespace DesingPatterns.StructuralPatterns.Bridge
 {
-    public interface IBridge
+    public interface IBridge // se crea la interface con su respectiva funcion 
     {
-        void Enviar(string mensaje);
-        
+      void Enviar(string mensaje);
     }
 }

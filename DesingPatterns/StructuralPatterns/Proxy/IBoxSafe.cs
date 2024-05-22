@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DesingPatterns.StructuralPatterns.Proxy
+﻿namespace DesingPatterns.StructuralPatterns.Proxy
 {
-    public interface IBoxSafe
+    public interface IBoxSafe // se crea la interface con la  funcion OpenSafe
     {
         void OpenSafe();
     }

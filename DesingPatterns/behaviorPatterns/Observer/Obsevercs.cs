@@ -1,10 +1,10 @@
-﻿using DesingPatterns.behaviorPatterns.Observer;
-using System;
-using System.Collections.Generic;
+﻿
 
-public class WeatherData : IWeatherSubject
+using DesingPatterns.behaviorPatterns.Observer;
+
+public class WeatherData : IWeatherSubject // se implementa la interface 
 {
-    private List<IWeatherObserver> observers;
+    private List<IWeatherObserver> observers; // una lista privada de los observaores 
     private float temperature;
     private float humidity;
     private float pressure;
@@ -16,15 +16,15 @@ public class WeatherData : IWeatherSubject
 
     public void RegisterObserver(IWeatherObserver observer)
     {
-        observers.Add(observer);
+        observers.Add(observer); // se agrega un observador 
     }
 
     public void RemoveObserver(IWeatherObserver observer)
     {
-        observers.Remove(observer);
+        observers.Remove(observer); // remueve un observador
     }
 
-    public void NotifyObservers()
+    public void NotifyObservers() // modifica a los observadores 
     {
         foreach (var observer in observers)
         {
@@ -32,7 +32,7 @@ public class WeatherData : IWeatherSubject
         }
     }
 
-    public void SetMeasurements(float temperature, float humidity, float pressure)
+    public void SetMeasurements(float temperature, float humidity, float pressure) 
     {
         this.temperature = temperature;
         this.humidity = humidity;
@@ -41,12 +41,12 @@ public class WeatherData : IWeatherSubject
     }
 }
 
-public class CurrentConditionsDisplay : IWeatherObserver
-{
-    private float temperature;
+public class CurrentConditionsDisplay : IWeatherObserver // impleenta la interface 
+{   // se crean las varibales 
+    private float temperature; 
     private float humidity;
 
-    public void Update(float temperature, float humidity, float pressure)
+    public void Update(float temperature, float humidity, float pressure) // se le asignan valores 
     {
         this.temperature = temperature;
         this.humidity = humidity;

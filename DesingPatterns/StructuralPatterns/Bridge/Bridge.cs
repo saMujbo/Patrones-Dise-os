@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace DesingPatterns.StructuralPatterns.Bridge
 {
-    public class Correo : IBridge
+    public class Correo : IBridge //clase correo utiliza la interface para enviar el corre 
     {
         public void Enviar(string mensaje)
         {
             Console.WriteLine("Enviando correo: " + mensaje);
         }
     }
-    public class MensajeTexto : IBridge
+    public class MensajeTexto : IBridge //clase correo utiliza la interface para enviar el mensaje
     {
         public void Enviar(string mensaje)
         {
@@ -21,7 +21,7 @@ namespace DesingPatterns.StructuralPatterns.Bridge
         }
     }
 
-    public class NotificacionUrgente : Notificacion
+    public class NotificacionUrgente : Notificacion // se llama a la clase abstracta Notificacion y se aplica la implementación necesaria en este caso urgente 
     {
         public NotificacionUrgente(IBridge notificacion) : base(notificacion)
         {
@@ -32,7 +32,7 @@ namespace DesingPatterns.StructuralPatterns.Bridge
         }
     }
 
-    public class NotificacionNormal : Notificacion
+    public class NotificacionNormal : Notificacion // se llama a la clase abstracta Notificacion para envíar una notificacón pero de una implementación diferente 
     {
         public NotificacionNormal(IBridge notificacion) : base(notificacion)
         {
